@@ -1,0 +1,26 @@
+.c1{
+  height:100px;
+  width:100px;
+  background-color: red;
+position: absolute;
+
+
+}
+.c2{  height:100px;
+  width:100px;
+position: absolute;
+  background-color: yellow;
+  left:100px;
+  top: 100px;
+}
+.c3{  height:100px;
+  width:100px;
+position: absolute;
+  background-color: blue;
+  top:200px;
+  left:200px;
+
+}
+body{
+  margin:0;
+}
