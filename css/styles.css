@@ -22,22 +22,24 @@ font-family: 'Merriweather', serif;
 h1{
 margin-top:0;
 font-family: 'Sacramento', cursive;
+  font-size:562.5%;
 
 }
 
 p{
   margin:0;
   font-family: 'Montserrat', sans-serif;
+  font-size:150%
 }
 
 .top-cloud{
   position:absolute;
-  right:400px;
+  right:30%;
   top:50px;
 }
 .bottom-cloud{
   position:absolute;
-  left:450px;
+  left:35%;
 }
 
 .sk{
